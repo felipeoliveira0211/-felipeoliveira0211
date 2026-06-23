@@ -10,7 +10,7 @@ Now I'm focused on building strong skills in the main tools and programming lang
 
 * 🌍  I'm based in Criciuma - SC/Brasil
 * ✉️  You can contact me at [felipeoliveira0211@gmail.com](mailto:felipeoliveira0211@gmail.com)
-* 🧠  I'm currently learning HTML/ CSS/ JAVA/ REACT
+* 🧠  I'm currently learning HTML/ CSS/ JAVA/ REACT/ PYTHON/ C++
 * 👥  I'm looking to collaborate on interesting projects
 
 <p align="left">
